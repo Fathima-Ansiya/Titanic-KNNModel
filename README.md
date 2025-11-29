@@ -120,7 +120,7 @@ Get `train.csv` and `test.csv`.
 Use Jupyter Notebook or VS Code.
 
 ```
-jupyter notebook titanic_knn.ipynb
+jupyter notebook titanic.ipynb
 ```
 
 ### **3️⃣ Install required libraries**
