@@ -90,7 +90,7 @@ Tried **k from 1 to 20** and selected the value with the best validation accurac
 ### 📌 Final Model Parameter
 
 ```
-n_neighbors = 7
+n_neighbors = 15
 ```
 
 *(Your value may differ based on tuning)*
