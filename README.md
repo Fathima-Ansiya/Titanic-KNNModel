@@ -25,7 +25,7 @@ The complete implementation is inside the Jupyter Notebook: **titanic_knn.ipynb*
 # 📂 Project Files
 
 ```
-├── titanic_knn.ipynb      # Notebook with all code
+├── titanic.ipynb      # Notebook with all code
 ├── submission.csv         # Final predictions for Kaggle
 └── README.md              # Project documentation
 ```
