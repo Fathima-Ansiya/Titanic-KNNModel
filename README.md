@@ -18,7 +18,7 @@ This project uses the Kaggle Titanic dataset to:
 * Train the final model
 * Generate a prediction file for Kaggle
 
-The complete implementation is inside the Jupyter Notebook: **titanic_knn.ipynb**.
+The complete implementation is inside the Jupyter Notebook: **titanic.ipynb**.
 
 ---
 
